@@ -1,6 +1,8 @@
 {
   "name": "iweather",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "3a2cf2a8"
 }
